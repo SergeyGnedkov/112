@@ -17,6 +17,7 @@ public class FireSystem : MonoBehaviour
     private bool isFireActive;
     private GameObject currentFireEffect;
     private float currentScale;
+    private bool isExtinguished;
 
     private void Start()
     {
@@ -27,22 +28,21 @@ public class FireSystem : MonoBehaviour
     {
         while (true)
         {
-            // Ждем заданный интервал
             yield return new WaitForSeconds(fireSpreadInterval);
 
-            // Активируем огонь
-            ActivateFire();
-
-            // Ждем некоторое время, пока огонь активен
-            yield return new WaitForSeconds(fireSpreadInterval / 2f);
-
-            // Деактивируем огонь
-            DeactivateFire();
+            if (!isExtinguished)
+            {
+                ActivateFire();
+                yield return new WaitForSeconds(fireSpreadInterval / 2f);
+                DeactivateFire();
+            }
         }
     }
 
     private void ActivateFire()
     {
+        if (isExtinguished) return;
+        
         isFireActive = true;
         if (fireEffectPrefab != null && currentFireEffect == null)
         {
@@ -62,22 +62,31 @@ public class FireSystem : MonoBehaviour
         }
     }
 
+    public void ExtinguishFire()
+    {
+        isExtinguished = true;
+        isFireActive = false;
+        if (currentFireEffect != null)
+        {
+            Destroy(currentFireEffect);
+            currentFireEffect = null;
+        }
+        StopAllCoroutines();
+    }
+
     private void Update()
     {
-        if (isFireActive)
+        if (isFireActive && !isExtinguished)
         {
-            // Увеличиваем масштаб эффекта огня
             if (currentFireEffect != null && currentScale < maxFireScale)
             {
                 currentScale = Mathf.MoveTowards(currentScale, maxFireScale, growthSpeed * Time.deltaTime);
                 currentFireEffect.transform.localScale = Vector3.one * currentScale;
             }
 
-            // Проверяем попадание игрока в зону огня
             Collider2D playerInFire = Physics2D.OverlapCircle(transform.position, damageRadius * currentScale, playerLayer);
             if (playerInFire != null)
             {
-                // Наносим урон игроку
                 PlayerHealth playerHealth = playerInFire.GetComponent<PlayerHealth>();
                 if (playerHealth != null)
                 {
@@ -89,7 +98,6 @@ public class FireSystem : MonoBehaviour
 
     private void OnDrawGizmosSelected()
     {
-        // Визуализация радиуса урона в редакторе
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, damageRadius);
     }
