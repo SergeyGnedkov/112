@@ -23,6 +23,9 @@ public class StudentAI : MonoBehaviour
     private Transform playerTransform;
     private bool isWandering;
 
+    // Публичное свойство для доступа к isFollowingPlayer
+    public bool IsFollowingPlayer => isFollowingPlayer;
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
