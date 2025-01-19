@@ -20,7 +20,7 @@ public class LevelExitZone : MonoBehaviour
 
                 foreach (StudentAI student in allStudents)
                 {
-                    if (!student.isFollowingPlayer)
+                    if (!student.IsFollowingPlayer)
                     {
                         allStudentsFollowing = false;
                         break;
