@@ -1,0 +1,7435 @@
+fileFormatVersion: 2
+guid: 3214f2573b96e2948aa86261efc9a241
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7239a94725fb64287d8f1f21bf6fbe
+      internalID: -1916546626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca6fa1e15dfcd4aa04b0ed3423ae0c
+      internalID: 1862188332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a589de791a8f974468b2c8c1d318f75e
+      internalID: -447217440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527a615a33698fa4b869f43d264214d6
+      internalID: -1475479345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13acdb30dd70e344bd2759c7e0289bb
+      internalID: 1453820874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f1c060d93138c40b05ad973bcee089
+      internalID: -651645292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0149b277581dc074d987beddcbb54d5d
+      internalID: 1762501216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab48a8dc0b15c7543bbd377b9edd4fff
+      internalID: -346079940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b272476cb154f3f4982837b27f47c1fd
+      internalID: -56778306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da4ddb68844349428aff492db037afa
+      internalID: -1419792388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ffdb279a9c2d44886e4c854e26c94f
+      internalID: -1875325178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944aaade355fca45bafbd46738d49de
+      internalID: -743178271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ae92270ef08a2439388396994d7c67
+      internalID: 2098607415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f595a0b7d1c7eb848b27e0a113fa48ac
+      internalID: 809071047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d606a00ed5709d34cad619dca376cd5b
+      internalID: -1267802126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c045833274e2a474cbc507b8a54f9907
+      internalID: 1712157981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507367e53efb3294c9d1430797d2aad6
+      internalID: -418547817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897a1b6db17807b4aa16740fbe0948a0
+      internalID: -301366814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc826da1fae70bf4399d58048daf4931
+      internalID: -306209221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dd5ebd7bcb5164eaa492e3232a067b
+      internalID: -1274364189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d12e068e2241d47934f0afb2ee438c
+      internalID: 499631964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7680dafb0925fac479c1c7e4796bc37c
+      internalID: -1303105713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f411e5cbfade4391bda485f7c0641
+      internalID: -1573939160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_23
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81687d73c8118149914998419f3940b
+      internalID: -338959404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac4b9a280fa08f46a4c3777cc81e020
+      internalID: -1611454305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_25
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f79f8ff1d7532d4b99671eced15f997
+      internalID: 1481638396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08059ffc8514ab04bbb5b9265d143733
+      internalID: 27353138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9b32ab5e98da34f847f045310864b1
+      internalID: -2057188166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d83f5dcc10926f40a7c8298783b42f8
+      internalID: -1535403391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9f03f7989bfe459e2de5cfefaf410
+      internalID: -1878265394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77367c4f64d3b2d4f93713d5d178e5de
+      internalID: 1751715299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27efe82e9124e940964cdbfae90ba4f
+      internalID: 832402566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4548774db179624eb228f90cc9b393c
+      internalID: 968255998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaecae6132833fb4da577385451b669e
+      internalID: 331636984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc3b1b371a7742438630ec316115561
+      internalID: -1345975480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1172ad36fdbc0488a424e06bdab6b0
+      internalID: 836292620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a210e40ed0356a4cb172d33d0309429
+      internalID: -1711187532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c089dce411d222241b4f3c25140a455d
+      internalID: 1193259641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_38
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc9e00bc992a394c96ce90bc31bc465
+      internalID: -1913244152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6109bc53211a7324895341875579c36b
+      internalID: 1313129825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_40
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4f9485900dab8478a09faa26a825a7
+      internalID: -771702619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_41
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8e4ba4561d2249bd5634ee54b31d3
+      internalID: -675536371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3edee08bef2bd43b3ad2aa1ba8bf6a
+      internalID: -498739670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2b910f5c1278f438e7b8ec7718769f
+      internalID: 239501512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c10fb295c586aa4bb7d9bc06e7977ca
+      internalID: 1353081829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169e14f41108062408586f80518f3283
+      internalID: -1464883639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_46
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7909a059ff228bf43b02eaf862231567
+      internalID: -758650195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_47
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd53adbc9bdc59419c155e569c96ec4
+      internalID: -1896010813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8576adb19c4a92547a74ebcd5b38c1fb
+      internalID: 271865767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf519cd81598fd04ca89ca7a88a7a26e
+      internalID: -1644347270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697e68d7ea200c54884e27c07d2264dd
+      internalID: 537220431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626858089a495fe468ac09bb018fc0db
+      internalID: -604849303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cff501cf20aca442bbde5638f8d3b69
+      internalID: -937221211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8968164aa2fb78648a7e80f18b37bd2f
+      internalID: 1105847394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855aa3f6c20eb6f48b6c95eadc4e7e42
+      internalID: 1701472001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabcd3ad5448a0b468cbc59d2aa6615f
+      internalID: 658586602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6395fd2fd7fac3344bcdf489c7b3a8e3
+      internalID: -2146151605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54baf9fa6e24b304a876e46e14d50452
+      internalID: -581293508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794e1b29d94d0904fa2ce2e42f96ad87
+      internalID: -360763601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e699b8a8a1cae0845b1456a90ee9f7e7
+      internalID: -355758603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_60
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385ea83c25719ff4e8f5f2a27978e73d
+      internalID: 934165988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e75da85a97962345a9fa49c2d439d1b
+      internalID: 2104027712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_62
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9f4aa66b5de784f9c1cea435056354
+      internalID: 329358197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_63
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7124f8a00420f24786bd42747e3506f
+      internalID: -1619266463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6b0098debc58342be49dae116f4424
+      internalID: -1768994468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20dbd64b5221ab4a943fb41455f47b4
+      internalID: 1102593401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3270d772a903fb949b2041665a0566d7
+      internalID: 1535466917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254b403b29921654486e005694371db8
+      internalID: 1333332325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2bd01b201945849a3576f02a4fbb66
+      internalID: -263376727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b3023e8435aae4cba6ab7f2543df15
+      internalID: -917056473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3da0c62b8f0da47bb4a8703f357ea6
+      internalID: -209634676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ea4b1facf76a545b4a71d8a77f4f39
+      internalID: 1083338295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1015481d2b52198448a7a864be3eece8
+      internalID: 698238112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_73
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1099719c3567e274d818d362a46fda8a
+      internalID: -851732091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_74
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab443d44c995f94ba0483b6d007caaf
+      internalID: 604287878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_75
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017c7c25bb9f2084aad30861efb3a343
+      internalID: -57817345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_76
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ed5e56be82be944b2d0b325a3ca0ce
+      internalID: 981337426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_77
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeacb69e3cfb0542b1b21a8b34004a9
+      internalID: 326382069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_78
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27c6c7292aae4943a6c0ba4cb2b32c6
+      internalID: -1624234059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6406c6ebf652e4b8fdcb50f9791996
+      internalID: -2067334072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_80
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4618137e8d559fc4ba40421e3eb0c995
+      internalID: 918771688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_81
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3ef7196a51b2640a2ed17d22825ca0
+      internalID: -964697509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c706628f714a2e44294fe66e50e1b681
+      internalID: -1339615828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac1d4bdaf06eca4ea00ed73ce5a5776
+      internalID: 2080423672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea0357a9196ca34daee8e9232b55acc
+      internalID: -528111468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd70acf86bea424dbaefb8761f1b9e6
+      internalID: -1101920078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e47b4671749b664497fd65ede0035e8
+      internalID: 283523318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9f9c21e5a1f154ca82690ff7bf4586
+      internalID: -497855147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d6d04317d2907408060cf4a77e34df
+      internalID: -881400991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_89
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f07afff2d9c4149b86e97660f265ab
+      internalID: 125613100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_90
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ad517fccd57eb469abaf54bf982e57
+      internalID: 1723964834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_91
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f5f0bdb75719244baac5dd93e8d501
+      internalID: -507091414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_92
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fb826fd19ce47459b18a24d90d56ef
+      internalID: -155825373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_93
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a2f385b01b2c347ba082e7b400d3d4
+      internalID: -234733060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_94
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e4e632d411e6444b92b15af3721597
+      internalID: 721200660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_95
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a262bfb80ea85ac49ba3a33ad3eafe26
+      internalID: -863745350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_96
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793dc8c983fc5824aa892a9a2939e1f7
+      internalID: -104327637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_97
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec90a58e131d96744ad025c07bd7106c
+      internalID: 1515110276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_98
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e047f9444a980f9419aadcd55014f685
+      internalID: -387290438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_99
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822b6afd49e088c44bb8d35d55570a31
+      internalID: 1199872301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_100
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e477f587de1484948a100e0a902a8e43
+      internalID: 1213526146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_101
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e2ad8695c18340bdb2d1e1b886f92
+      internalID: 1887681463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_102
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411f73285bf961943b28c023927f49d9
+      internalID: -2028664481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f30df6e763fac47990d8a9841b1cd8
+      internalID: 879125492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_104
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8aa3d2eb6944c4dbe2def06bdf9d7e
+      internalID: -771227765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_105
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb0e9571dc949d4081b64d5093d9780
+      internalID: 252533590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_106
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b288c0e97bac4d544b4cb0c352d467d6
+      internalID: 947186489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_107
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5839ad30c512a4488e81aa606cdc167
+      internalID: -264702460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_108
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1894705e9ee194b4c90d116d51937e7c
+      internalID: -36479619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_109
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37426facdf12afc41ac22f3e3349ede6
+      internalID: -1662005612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_110
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d74edc80795e54a93d50cd4221557c
+      internalID: 2044446420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_111
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301f3862d0a58ff48b7be1b4c2e2d3c0
+      internalID: 891186046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_112
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288bd5c29f4a84c439487ced5bd18d46
+      internalID: 648542385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_113
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c014ae72ddd36ab4b98663433cf39124
+      internalID: -216269667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_114
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af94d6482034edc4baf9c3aeaf20224b
+      internalID: 104865765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_115
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402b554bbaef9ee4cb7381d68e130d34
+      internalID: -961939957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_116
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4111f70506d4545befcd78da4b84b4
+      internalID: 1362139785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_117
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e34af17bf946bd4db7c192dd7360081
+      internalID: -51252257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_118
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24befb34a54d4b84f97d668448bd3c69
+      internalID: 11096855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346827c718d24dc4786635c7b1ed1d06
+      internalID: 308815886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5706d9060ad0d34b84d8bce97df4330
+      internalID: 1271399738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1996e42319732754ab7d97730dcd4e38
+      internalID: 1131105022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb8e0e479bf3f440ba99b914a476eda
+      internalID: -1200851772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca88c05643a552458b1781ed8e20bae
+      internalID: 49802941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_124
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223679cd1950bf140895fb32cc72e315
+      internalID: 1686037039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_125
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4bba3c585dc5743a5f7e052e93f2c3
+      internalID: -2096149963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_126
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65e235dbf39c95468e73fc03c1805cb
+      internalID: -2069660071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_127
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba06732c1780d19499611f65abbcaa9c
+      internalID: -1844047639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_128
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2b52bfc2f7f3542bbc7905c23689a3
+      internalID: 2086499390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_129
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd833fb911831974ca27d7a94998eaa9
+      internalID: -418913174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_130
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ffaf779703774ead89e2f11512ff0
+      internalID: -716665540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_131
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a179ae5b45f54f93e19108d0b97b7
+      internalID: -587439177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_132
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48000701e5fc3247ba9d749f70aa01f
+      internalID: -692800727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_133
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bc430f24165554a92eeea3c25525dd
+      internalID: 2027957214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_134
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307f98baac42d034a96390ee05f9b78f
+      internalID: 375645863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_135
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06640c6c3e689b48a4e5a48271e9628
+      internalID: 1308792218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_136
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad485b961e8217342b68ce8bb7fc3bee
+      internalID: 619285466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_137
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8a9791d4573aa48ae093a2d5fa5237
+      internalID: -1519575947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_138
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00776e23358a55e479e62f8c8fb2a77d
+      internalID: 440626520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_139
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a33564d3393d614f807f450ea15a334
+      internalID: -1427752511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_140
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08c37ba933218447b6a7bcbbc440e05
+      internalID: -1650560977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac309f532507064d82d9ada7c81abbf
+      internalID: -336760249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe874aa45e581c4c8cc4647e3fc3e73
+      internalID: 1362315769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_143
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200922fbab596974f9fb7da79a00ca53
+      internalID: 871107994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104ff41f94c16f64ab7163957b5723e8
+      internalID: 1370860097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_145
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca45b7c798cdb1d4a829cd9231371663
+      internalID: 1856373996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_146
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69fde6622175847a78a77cccaa8ac6
+      internalID: 2005462987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_147
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b16a492201b4a4fa2fc041c731e9d4
+      internalID: 329682757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_148
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934f34e803fe88147aae3f348e716c71
+      internalID: 560091414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_149
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a02f1429f71eb40928e7a67166339e
+      internalID: 1216034197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_150
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c29f668c48771439b9f2238231bacc
+      internalID: 1450952881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_151
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d8f148f4c605b438e273636f0c87a2
+      internalID: -1670174328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_152
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62399dff47ad9b9479da1e6792014887
+      internalID: -2040231128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_153
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102745d07f5b03646829435331f15e30
+      internalID: -171275465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_154
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddf8b3d19463d742ad16fa4ab50e7dc
+      internalID: -733031912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_155
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711d71883c490a24997a54f5c49b9538
+      internalID: -1459968175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_156
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee391953ece55a469a3e5442a985168
+      internalID: -693526088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_157
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bee58142236a90408eb0be0a1426912
+      internalID: 853710311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_158
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77162cd8224c21a4f90636ca1020c8e3
+      internalID: -894185725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_159
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945299dc1ec094542bd46b1dc6c31dbf
+      internalID: -221765230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_160
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaa40706311f6f4d98e6b454f1f5d51
+      internalID: 1481457318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c6e9e30ab938e4b8541c0eeb122539
+      internalID: -1847927609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e95b78297f156e46be447cf1ab2ee19
+      internalID: 849467410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_163
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c292c07bb8c435489dad1fc6df4f6cd
+      internalID: -1996754252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_164
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1524769e7b4aab4580bc3e557e1c86b
+      internalID: -703896269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_165
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2a4599fac639d4da2ed1c6032170eb
+      internalID: 1362237118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_166
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7eb19e773e3564ea74d150b69f33b6
+      internalID: 1157445259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_167
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364c2f5705ccbd04380c27f61af798df
+      internalID: -1974925719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_168
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830a0855b27e26244a0c1763ce855184
+      internalID: -587359301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_169
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cade5db86741c4987c3457d059a8b4
+      internalID: -1394860896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_170
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdb021b345ebd6448b8099a52a3b6f5
+      internalID: 242575489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_171
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97380f33ded414948bb19f77713c756c
+      internalID: 286789319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_172
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd6a322848071b4090df30f67c4ed5b
+      internalID: -395944546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_173
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd0857086c695847b11e562b2828b65
+      internalID: 1435405014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_174
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416a3d5892d7624295ee7484867e11b
+      internalID: 1878565040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_175
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabf878b843e6b84197d94b5717e7d51
+      internalID: 715934268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_176
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b76628704f42394f85ab6606de91178
+      internalID: -1879180097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_177
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f14198ce198f6488e9e672fc73a043
+      internalID: 1353151489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_178
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ede648462732304bb21baf2eb352712
+      internalID: 453549199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_179
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbb120401504aa439802b1819d54d1d
+      internalID: -983155051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_180
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd186e9f86fc3b4194f724380118c09
+      internalID: 700271842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a82ac60d792c647afd390e6e99a3dd
+      internalID: 139656210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_182
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386be1eea7fa74346a2409ccef64eab7
+      internalID: 779732077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_183
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2824b05e9a5a04d8fbd5bf8f59ddc9
+      internalID: -1913972938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_184
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625ec928fcb03094cbce9bab4db341b6
+      internalID: -2031519735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_185
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6876db42ba6e8f9449713a3f22003525
+      internalID: -341404397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_186
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3501b387f5313446a59f7f7327ed4f9
+      internalID: 1897604565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_187
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b96326e7698c9e4ea749d600f180767
+      internalID: -1317865205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_188
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b0b61e4dc876243983b9010612f3d2
+      internalID: -2048516423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_189
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b4500ab523c9d478ef7884b3571854
+      internalID: -794294207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_190
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdde9a2e598ed6347a1ad0a46914d605
+      internalID: 836862723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_191
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c1ddd7347b6f044809e40e8add9e27
+      internalID: -1870068421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_192
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a5be34655bfa14c9352623127152dc
+      internalID: 828653049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_193
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844974fb64ea47444b934a9fe16602e3
+      internalID: -1709075420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_194
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c89d70e443d864383532c21a0d3624
+      internalID: -1590201061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_195
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ae41c7bae598f4597fbf92f100742e
+      internalID: -77795969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_196
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2d0df4109cc944e91bd25a54fc5444
+      internalID: -1201855745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_197
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c797373317e6236418ba568e16ff703f
+      internalID: 2052443225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_198
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa17b937b78903f47a16367e378d35eb
+      internalID: 1087899360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_199
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5eb86902912fe4d8e09fb722f1f391
+      internalID: -2076282496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_200
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8f3b68ad59afe47a8ac2de0aecc9b1
+      internalID: 2070299005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_201
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61deb9e2767547942b708d90283ddfc2
+      internalID: 1427009577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_202
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a811fd28d8dded24b8134786d3282142
+      internalID: 741133205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_203
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaaddf1888ba954a9aceefd709d0d01
+      internalID: 1411452131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_204
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ce3d88cae72714e8f855031b37bf81
+      internalID: 586340515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_205
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9b511f9b86e4f419cbaf0573b8a0f4
+      internalID: -1279358672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_206
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a3f6933d0657a40b0b8604edccbad0
+      internalID: 1809984546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_207
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28797f5819787a345b5b9450473dda04
+      internalID: -272299514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_208
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b66aea998745e41a33bcba23bd09f8
+      internalID: 2103563089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_209
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba93d514c981d14da51a6adf421fd5b
+      internalID: 556121551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_210
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ea883ce84c7d49b3e974033336422
+      internalID: -93767890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_211
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c7f17d4260a194db4c8e1725501348
+      internalID: -1427207423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_212
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7592d84315e27f54b9f0e71b9ee32060
+      internalID: 1770787260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_213
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b480854cf5bc0444ac9932a9f709aa4
+      internalID: 24088917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_214
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a75170cdd33264448757ca0abb7aeab
+      internalID: -1341880057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_215
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54224342694a74fbefb8d3a8802a3d
+      internalID: -704022645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_216
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601fda961ae168446800ff77c3f739b5
+      internalID: -1868766115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_217
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f582bda0b944d54e900e3cfe59bd98f
+      internalID: -1786844951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932c88cd7897d0e42be4030c3e6dd371
+      internalID: -2065175605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_219
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b994a2c31a049479824922f49d06b1
+      internalID: -8274944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_220
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a9c46abbeff684fb8d77fdc065a88c
+      internalID: -1242268146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_221
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caea6b3b2293b9a4dab60473777d7754
+      internalID: -426725032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_222
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c95d086353ba8848add4c1edd0e2b4b
+      internalID: 711057514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_223
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c8de9b2d50ab249897038f1cdb9065
+      internalID: -573085056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_224
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70adf14cc63d96a409a3db0b2d6042e0
+      internalID: 1771792333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_225
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e753d47e0813b4e8f016769b6faf21
+      internalID: -1711797649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_226
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ebfcf5ce610b14ebdce6ccfc68309b
+      internalID: -290049449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_227
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe803002759ad746a7edd7d10e8d331
+      internalID: 2006851238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_228
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c619b7656fdb948b31cfd377daafa1
+      internalID: -719931563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_229
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ad315b3e342564d8e100010b792e41
+      internalID: 1016243428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_230
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f03cf3d3a5f6649afa85cf97c5f068
+      internalID: 1174272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_231
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4e72d24a3341d48a2568e47319e561
+      internalID: -279045598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_232
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d247933819b23ff4e942b9af66a35404
+      internalID: -1351481144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_233
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d18b3b37f79a5489451ecb5d34323b
+      internalID: 709755679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_234
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17a7670693578d4e99dc8e881087388
+      internalID: -1373574601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_235
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3322e1ff2662b48ad573222050daf1
+      internalID: -1054508401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_236
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cedbe7e61520b468763445720e9664
+      internalID: -861860748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_237
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9173aa29b54e0543bb37d0b9960c027
+      internalID: -1271508640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_238
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb05819fa5a0944ca5537c238b1c27c
+      internalID: 1153032271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_239
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9aa41410091734b8ddbb9d2d6b1747
+      internalID: -2122053633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_240
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ac7d895d05a7d4bb62ce089f1cc84a
+      internalID: 1008102709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_241
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc40798bd4d87a48b244b1cd3b5c7e5
+      internalID: -794817358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_242
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef52eeb08967a2045b953306e9744d6b
+      internalID: 503153321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_243
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc19b5bcdd17c7e49919c5e6a6c874a7
+      internalID: 1421420093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_244
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f39dfaefbb3ee4eb163657d177c60d
+      internalID: 1541840948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_245
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92519a694cb76f498f2b286ed26825b
+      internalID: -485916683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_246
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fcb4344f1a2e449951613f9063cb8f
+      internalID: 1345508133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_247
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eae6d3abc9df5469e6a3ea3426ae3c
+      internalID: -1695138501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_248
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea5eb5952e2a7447a3098c13b541bdb
+      internalID: 1064946135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_249
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc580a6edbce8b44b886c9ffe3dc87c
+      internalID: -1419276075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_250
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fcf492cc2178c4da7fce052d222137
+      internalID: -1076475501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_251
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175e561ca650cdc4b9aed253dd3d72ff
+      internalID: -307915411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_252
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f75c9f517d7454a8b70d78520493d7
+      internalID: -634229550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_253
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d87fa436b620dd4d8075c3e207c6d36
+      internalID: 662432239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_254
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc52608d795b7ef48ae4dce6db4b30bf
+      internalID: -1871343866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_255
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eaab1a93b55f04a80c5a892fc6e536
+      internalID: -1495715106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_256
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f69050b2282e094980ced2a1fe2b5b4
+      internalID: -2077423127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_257
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6975711926acb84c82429d1bfe5babf
+      internalID: 1347801933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_258
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc11b890a18a20478f8c36b0b335109
+      internalID: 1498569588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_259
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d95ab35462cb34cb3c1631c9441bb8
+      internalID: -633859924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_260
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3577540d086c9674198e2b652af1645d
+      internalID: 447623088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_261
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cc2cef56679cb4aaa85c2c5e3e78e5
+      internalID: 631962790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_262
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd56f6595db03244ab62c88ed09741bf
+      internalID: 971060894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_263
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10821edcfdcfc7c47bcbc77d35b81fe5
+      internalID: -1158822870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_264
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d3917afca44af4393778371250c05b
+      internalID: -174374274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_265
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb01b503f6f456948a899bfad26093d5
+      internalID: -1675733735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_266
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea34a71a0d0e854469fa32b9b6ac7e33
+      internalID: 736707219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_267
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d33aa8567c934fba1b92910e2bba0
+      internalID: -978905403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_268
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb805313162d0124ca5be30478303606
+      internalID: -1432517146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_269
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c974a211eb1d864b9abd6d457bd8b45
+      internalID: -984257757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_270
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a3261922f841c47b5930a60d561189
+      internalID: 1884450700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_271
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d05003112bb84f9a80f1b5a4d2322
+      internalID: -751715716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_272
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac8b7dbd7a941341bb365a6530e0ab8
+      internalID: -1969667335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_273
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a85ce72e9f0894ca42a3a4beb8a475
+      internalID: 1403170328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_274
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f7105a28220ff47bc346db2aba537d
+      internalID: 798034012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_275
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde5097b2610ad46ab8d5c321a03766
+      internalID: -189692934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_276
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ae2cafb86cb3c44bd32bfe81b9913f
+      internalID: 1937415068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_277
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5353c99129dbcfa4caa4245a09d18ddc
+      internalID: -828444545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_278
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a17fa1d39af23442ad42736d93a20d1
+      internalID: -1192683528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_279
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f1411f6f706eb48b4bf2b59cfaf8f2
+      internalID: -233805212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_280
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c74dad64ff3641980ad3b24627c7d
+      internalID: 218625280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_281
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0e83b4b1d106428e473fcdbe424a6
+      internalID: 1913603026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_282
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0372bf235d1ddf7498da03d0935117e8
+      internalID: 86336113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_283
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d9b0f25b5e0f5458e8e6ef06baa688
+      internalID: 921157229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_284
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee6d4cb26b278645896637c91574499
+      internalID: -689399185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_285
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110131ef5a481e54e84f153348811cde
+      internalID: 1293190298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_286
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4841a6ff678489f42b826141ae76a311
+      internalID: -2113037662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_287
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fd578254524e34bb5547510cd89623
+      internalID: 602053754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_288
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81130150fdde7de42990061df70ee41f
+      internalID: -40106390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_289
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811397d06de777c4b9f9926bf6e3b412
+      internalID: -300004666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_290
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c10ef94aa567e41820d5c78646f6b0
+      internalID: 825125139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_291
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba148b9751fb504b8de52d1b285ef0a
+      internalID: 21452781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_292
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e674c32840889e84e9553da77e4dfdfe
+      internalID: -1016867709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_293
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c68e56311eb584a87bd0fa399c7bf1
+      internalID: 302318777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_294
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb8a2189159f0d469be5e19998e30d5
+      internalID: 319801738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_295
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185672235c944ee4992e48bca09d6bc7
+      internalID: 1362456439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_296
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eba7e52d8da2840a86733f5139484f
+      internalID: 1314327001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_297
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0b17c67d5e1f942961639c5a3127a3
+      internalID: 200025076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_298
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69487c4ad719ad0408847bd0b166ab86
+      internalID: -1861322688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_299
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5d5f688cdc3eb4480edbcfb90e4392
+      internalID: -1953692142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_300
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c421ab7a0cd2c4f8572401d4d7e96c
+      internalID: 242178387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_301
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea099286151c8a946b89eca1334763fb
+      internalID: -34757446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_302
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17d5d9ce400c1847a07b1e213172991
+      internalID: -1807288009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_303
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b7be76b5a303d498a18be212b4c8ed
+      internalID: 382204383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_304
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e4cab0e06d96409655fae505548d8
+      internalID: -389574194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_305
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903788b489202024883e7ec157c69c8e
+      internalID: 1241972856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_306
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c0f79616e701468104dfd614163af
+      internalID: -303756509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_307
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05b5fb190cc98e4081f8a7d641a35fb
+      internalID: -1181229413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_308
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e71774b62a31284584b9f48df9dd8b5
+      internalID: 1808818549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_309
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560fff482f4b11045a1a4e80d39b0af6
+      internalID: 1009007063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_310
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308ce4bcfec2db241a8bc9a942ac20d4
+      internalID: -1709657391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_311
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8483b48673bd4874e87ee24a533d9969
+      internalID: -818397492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_312
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728994ff83602ee4c84bfde3852510d3
+      internalID: 1581200567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_313
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8796a207dbcaa804e92cc74e07b186dd
+      internalID: 2008245123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_314
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02854a7fbe227124a9ffbcb4dde8e5b6
+      internalID: -1655007092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_315
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c16432eba3069e41befc6d21ead815c
+      internalID: 14583724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_316
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff4ad067dba6a8439315d4b5668fb17
+      internalID: -967108627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_317
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e31fb83dcf41e45973a6e7d2f4faff
+      internalID: 1120566581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_318
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59571556751270347885bdd17cd27aa0
+      internalID: -726175950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_319
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b549b14cb18f3458ba5fb075827ac3
+      internalID: 644804781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_320
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354327b8dd682b64c8196729910c2782
+      internalID: 299578383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_321
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e299b80a599f314ea4eeae22de59fe5
+      internalID: 1606789418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_322
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a9bf56a1a61224799f496a24b9501e
+      internalID: -1029589308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_323
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299f6a5a6731c5a40bc6ad81aaf20796
+      internalID: 268637062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_324
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918904dbb9dde6149b12e5a1715c266d
+      internalID: 1207782628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_325
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef001ecffad1ed4699e3fc753ab7c84
+      internalID: -1833694343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_326
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a16c02159a444fb4fe9002d83ed59
+      internalID: -1590187971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_327
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefdd1e8f98d77c478c96e18822ffaeb
+      internalID: -1573911058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_328
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe106edb212a21a48b01b72f570cf66d
+      internalID: -485388044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_329
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a999df077686d74281069fdcc6e7276
+      internalID: 1287362250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkVaritanTileAssets_330
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a463fa1a3b6be46abed1a4d23f9f34
+      internalID: 494322974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WorkVaritanTileAssets_0: -1916546626
+      WorkVaritanTileAssets_1: 1862188332
+      WorkVaritanTileAssets_10: -1875325178
+      WorkVaritanTileAssets_100: 1213526146
+      WorkVaritanTileAssets_101: 1887681463
+      WorkVaritanTileAssets_102: -2028664481
+      WorkVaritanTileAssets_103: 879125492
+      WorkVaritanTileAssets_104: -771227765
+      WorkVaritanTileAssets_105: 252533590
+      WorkVaritanTileAssets_106: 947186489
+      WorkVaritanTileAssets_107: -264702460
+      WorkVaritanTileAssets_108: -36479619
+      WorkVaritanTileAssets_109: -1662005612
+      WorkVaritanTileAssets_11: -743178271
+      WorkVaritanTileAssets_110: 2044446420
+      WorkVaritanTileAssets_111: 891186046
+      WorkVaritanTileAssets_112: 648542385
+      WorkVaritanTileAssets_113: -216269667
+      WorkVaritanTileAssets_114: 104865765
+      WorkVaritanTileAssets_115: -961939957
+      WorkVaritanTileAssets_116: 1362139785
+      WorkVaritanTileAssets_117: -51252257
+      WorkVaritanTileAssets_118: 11096855
+      WorkVaritanTileAssets_119: 308815886
+      WorkVaritanTileAssets_12: 2098607415
+      WorkVaritanTileAssets_120: 1271399738
+      WorkVaritanTileAssets_121: 1131105022
+      WorkVaritanTileAssets_122: -1200851772
+      WorkVaritanTileAssets_123: 49802941
+      WorkVaritanTileAssets_124: 1686037039
+      WorkVaritanTileAssets_125: -2096149963
+      WorkVaritanTileAssets_126: -2069660071
+      WorkVaritanTileAssets_127: -1844047639
+      WorkVaritanTileAssets_128: 2086499390
+      WorkVaritanTileAssets_129: -418913174
+      WorkVaritanTileAssets_13: 809071047
+      WorkVaritanTileAssets_130: -716665540
+      WorkVaritanTileAssets_131: -587439177
+      WorkVaritanTileAssets_132: -692800727
+      WorkVaritanTileAssets_133: 2027957214
+      WorkVaritanTileAssets_134: 375645863
+      WorkVaritanTileAssets_135: 1308792218
+      WorkVaritanTileAssets_136: 619285466
+      WorkVaritanTileAssets_137: -1519575947
+      WorkVaritanTileAssets_138: 440626520
+      WorkVaritanTileAssets_139: -1427752511
+      WorkVaritanTileAssets_14: -1267802126
+      WorkVaritanTileAssets_140: -1650560977
+      WorkVaritanTileAssets_141: -336760249
+      WorkVaritanTileAssets_142: 1362315769
+      WorkVaritanTileAssets_143: 871107994
+      WorkVaritanTileAssets_144: 1370860097
+      WorkVaritanTileAssets_145: 1856373996
+      WorkVaritanTileAssets_146: 2005462987
+      WorkVaritanTileAssets_147: 329682757
+      WorkVaritanTileAssets_148: 560091414
+      WorkVaritanTileAssets_149: 1216034197
+      WorkVaritanTileAssets_15: 1712157981
+      WorkVaritanTileAssets_150: 1450952881
+      WorkVaritanTileAssets_151: -1670174328
+      WorkVaritanTileAssets_152: -2040231128
+      WorkVaritanTileAssets_153: -171275465
+      WorkVaritanTileAssets_154: -733031912
+      WorkVaritanTileAssets_155: -1459968175
+      WorkVaritanTileAssets_156: -693526088
+      WorkVaritanTileAssets_157: 853710311
+      WorkVaritanTileAssets_158: -894185725
+      WorkVaritanTileAssets_159: -221765230
+      WorkVaritanTileAssets_16: -418547817
+      WorkVaritanTileAssets_160: 1481457318
+      WorkVaritanTileAssets_161: -1847927609
+      WorkVaritanTileAssets_162: 849467410
+      WorkVaritanTileAssets_163: -1996754252
+      WorkVaritanTileAssets_164: -703896269
+      WorkVaritanTileAssets_165: 1362237118
+      WorkVaritanTileAssets_166: 1157445259
+      WorkVaritanTileAssets_167: -1974925719
+      WorkVaritanTileAssets_168: -587359301
+      WorkVaritanTileAssets_169: -1394860896
+      WorkVaritanTileAssets_17: -301366814
+      WorkVaritanTileAssets_170: 242575489
+      WorkVaritanTileAssets_171: 286789319
+      WorkVaritanTileAssets_172: -395944546
+      WorkVaritanTileAssets_173: 1435405014
+      WorkVaritanTileAssets_174: 1878565040
+      WorkVaritanTileAssets_175: 715934268
+      WorkVaritanTileAssets_176: -1879180097
+      WorkVaritanTileAssets_177: 1353151489
+      WorkVaritanTileAssets_178: 453549199
+      WorkVaritanTileAssets_179: -983155051
+      WorkVaritanTileAssets_18: -306209221
+      WorkVaritanTileAssets_180: 700271842
+      WorkVaritanTileAssets_181: 139656210
+      WorkVaritanTileAssets_182: 779732077
+      WorkVaritanTileAssets_183: -1913972938
+      WorkVaritanTileAssets_184: -2031519735
+      WorkVaritanTileAssets_185: -341404397
+      WorkVaritanTileAssets_186: 1897604565
+      WorkVaritanTileAssets_187: -1317865205
+      WorkVaritanTileAssets_188: -2048516423
+      WorkVaritanTileAssets_189: -794294207
+      WorkVaritanTileAssets_19: -1274364189
+      WorkVaritanTileAssets_190: 836862723
+      WorkVaritanTileAssets_191: -1870068421
+      WorkVaritanTileAssets_192: 828653049
+      WorkVaritanTileAssets_193: -1709075420
+      WorkVaritanTileAssets_194: -1590201061
+      WorkVaritanTileAssets_195: -77795969
+      WorkVaritanTileAssets_196: -1201855745
+      WorkVaritanTileAssets_197: 2052443225
+      WorkVaritanTileAssets_198: 1087899360
+      WorkVaritanTileAssets_199: -2076282496
+      WorkVaritanTileAssets_2: -447217440
+      WorkVaritanTileAssets_20: 499631964
+      WorkVaritanTileAssets_200: 2070299005
+      WorkVaritanTileAssets_201: 1427009577
+      WorkVaritanTileAssets_202: 741133205
+      WorkVaritanTileAssets_203: 1411452131
+      WorkVaritanTileAssets_204: 586340515
+      WorkVaritanTileAssets_205: -1279358672
+      WorkVaritanTileAssets_206: 1809984546
+      WorkVaritanTileAssets_207: -272299514
+      WorkVaritanTileAssets_208: 2103563089
+      WorkVaritanTileAssets_209: 556121551
+      WorkVaritanTileAssets_21: -1303105713
+      WorkVaritanTileAssets_210: -93767890
+      WorkVaritanTileAssets_211: -1427207423
+      WorkVaritanTileAssets_212: 1770787260
+      WorkVaritanTileAssets_213: 24088917
+      WorkVaritanTileAssets_214: -1341880057
+      WorkVaritanTileAssets_215: -704022645
+      WorkVaritanTileAssets_216: -1868766115
+      WorkVaritanTileAssets_217: -1786844951
+      WorkVaritanTileAssets_218: -2065175605
+      WorkVaritanTileAssets_219: -8274944
+      WorkVaritanTileAssets_22: -1573939160
+      WorkVaritanTileAssets_220: -1242268146
+      WorkVaritanTileAssets_221: -426725032
+      WorkVaritanTileAssets_222: 711057514
+      WorkVaritanTileAssets_223: -573085056
+      WorkVaritanTileAssets_224: 1771792333
+      WorkVaritanTileAssets_225: -1711797649
+      WorkVaritanTileAssets_226: -290049449
+      WorkVaritanTileAssets_227: 2006851238
+      WorkVaritanTileAssets_228: -719931563
+      WorkVaritanTileAssets_229: 1016243428
+      WorkVaritanTileAssets_23: -338959404
+      WorkVaritanTileAssets_230: 1174272
+      WorkVaritanTileAssets_231: -279045598
+      WorkVaritanTileAssets_232: -1351481144
+      WorkVaritanTileAssets_233: 709755679
+      WorkVaritanTileAssets_234: -1373574601
+      WorkVaritanTileAssets_235: -1054508401
+      WorkVaritanTileAssets_236: -861860748
+      WorkVaritanTileAssets_237: -1271508640
+      WorkVaritanTileAssets_238: 1153032271
+      WorkVaritanTileAssets_239: -2122053633
+      WorkVaritanTileAssets_24: -1611454305
+      WorkVaritanTileAssets_240: 1008102709
+      WorkVaritanTileAssets_241: -794817358
+      WorkVaritanTileAssets_242: 503153321
+      WorkVaritanTileAssets_243: 1421420093
+      WorkVaritanTileAssets_244: 1541840948
+      WorkVaritanTileAssets_245: -485916683
+      WorkVaritanTileAssets_246: 1345508133
+      WorkVaritanTileAssets_247: -1695138501
+      WorkVaritanTileAssets_248: 1064946135
+      WorkVaritanTileAssets_249: -1419276075
+      WorkVaritanTileAssets_25: 1481638396
+      WorkVaritanTileAssets_250: -1076475501
+      WorkVaritanTileAssets_251: -307915411
+      WorkVaritanTileAssets_252: -634229550
+      WorkVaritanTileAssets_253: 662432239
+      WorkVaritanTileAssets_254: -1871343866
+      WorkVaritanTileAssets_255: -1495715106
+      WorkVaritanTileAssets_256: -2077423127
+      WorkVaritanTileAssets_257: 1347801933
+      WorkVaritanTileAssets_258: 1498569588
+      WorkVaritanTileAssets_259: -633859924
+      WorkVaritanTileAssets_26: 27353138
+      WorkVaritanTileAssets_260: 447623088
+      WorkVaritanTileAssets_261: 631962790
+      WorkVaritanTileAssets_262: 971060894
+      WorkVaritanTileAssets_263: -1158822870
+      WorkVaritanTileAssets_264: -174374274
+      WorkVaritanTileAssets_265: -1675733735
+      WorkVaritanTileAssets_266: 736707219
+      WorkVaritanTileAssets_267: -978905403
+      WorkVaritanTileAssets_268: -1432517146
+      WorkVaritanTileAssets_269: -984257757
+      WorkVaritanTileAssets_27: -2057188166
+      WorkVaritanTileAssets_270: 1884450700
+      WorkVaritanTileAssets_271: -751715716
+      WorkVaritanTileAssets_272: -1969667335
+      WorkVaritanTileAssets_273: 1403170328
+      WorkVaritanTileAssets_274: 798034012
+      WorkVaritanTileAssets_275: -189692934
+      WorkVaritanTileAssets_276: 1937415068
+      WorkVaritanTileAssets_277: -828444545
+      WorkVaritanTileAssets_278: -1192683528
+      WorkVaritanTileAssets_279: -233805212
+      WorkVaritanTileAssets_28: -1535403391
+      WorkVaritanTileAssets_280: 218625280
+      WorkVaritanTileAssets_281: 1913603026
+      WorkVaritanTileAssets_282: 86336113
+      WorkVaritanTileAssets_283: 921157229
+      WorkVaritanTileAssets_284: -689399185
+      WorkVaritanTileAssets_285: 1293190298
+      WorkVaritanTileAssets_286: -2113037662
+      WorkVaritanTileAssets_287: 602053754
+      WorkVaritanTileAssets_288: -40106390
+      WorkVaritanTileAssets_289: -300004666
+      WorkVaritanTileAssets_29: -1878265394
+      WorkVaritanTileAssets_290: 825125139
+      WorkVaritanTileAssets_291: 21452781
+      WorkVaritanTileAssets_292: -1016867709
+      WorkVaritanTileAssets_293: 302318777
+      WorkVaritanTileAssets_294: 319801738
+      WorkVaritanTileAssets_295: 1362456439
+      WorkVaritanTileAssets_296: 1314327001
+      WorkVaritanTileAssets_297: 200025076
+      WorkVaritanTileAssets_298: -1861322688
+      WorkVaritanTileAssets_299: -1953692142
+      WorkVaritanTileAssets_3: -1475479345
+      WorkVaritanTileAssets_30: 1751715299
+      WorkVaritanTileAssets_300: 242178387
+      WorkVaritanTileAssets_301: -34757446
+      WorkVaritanTileAssets_302: -1807288009
+      WorkVaritanTileAssets_303: 382204383
+      WorkVaritanTileAssets_304: -389574194
+      WorkVaritanTileAssets_305: 1241972856
+      WorkVaritanTileAssets_306: -303756509
+      WorkVaritanTileAssets_307: -1181229413
+      WorkVaritanTileAssets_308: 1808818549
+      WorkVaritanTileAssets_309: 1009007063
+      WorkVaritanTileAssets_31: 832402566
+      WorkVaritanTileAssets_310: -1709657391
+      WorkVaritanTileAssets_311: -818397492
+      WorkVaritanTileAssets_312: 1581200567
+      WorkVaritanTileAssets_313: 2008245123
+      WorkVaritanTileAssets_314: -1655007092
+      WorkVaritanTileAssets_315: 14583724
+      WorkVaritanTileAssets_316: -967108627
+      WorkVaritanTileAssets_317: 1120566581
+      WorkVaritanTileAssets_318: -726175950
+      WorkVaritanTileAssets_319: 644804781
+      WorkVaritanTileAssets_32: 968255998
+      WorkVaritanTileAssets_320: 299578383
+      WorkVaritanTileAssets_321: 1606789418
+      WorkVaritanTileAssets_322: -1029589308
+      WorkVaritanTileAssets_323: 268637062
+      WorkVaritanTileAssets_324: 1207782628
+      WorkVaritanTileAssets_325: -1833694343
+      WorkVaritanTileAssets_326: -1590187971
+      WorkVaritanTileAssets_327: -1573911058
+      WorkVaritanTileAssets_328: -485388044
+      WorkVaritanTileAssets_329: 1287362250
+      WorkVaritanTileAssets_33: 331636984
+      WorkVaritanTileAssets_330: 494322974
+      WorkVaritanTileAssets_34: -1345975480
+      WorkVaritanTileAssets_35: 836292620
+      WorkVaritanTileAssets_36: -1711187532
+      WorkVaritanTileAssets_37: 1193259641
+      WorkVaritanTileAssets_38: -1913244152
+      WorkVaritanTileAssets_39: 1313129825
+      WorkVaritanTileAssets_4: 1453820874
+      WorkVaritanTileAssets_40: -771702619
+      WorkVaritanTileAssets_41: -675536371
+      WorkVaritanTileAssets_42: -498739670
+      WorkVaritanTileAssets_43: 239501512
+      WorkVaritanTileAssets_44: 1353081829
+      WorkVaritanTileAssets_45: -1464883639
+      WorkVaritanTileAssets_46: -758650195
+      WorkVaritanTileAssets_47: -1896010813
+      WorkVaritanTileAssets_48: 271865767
+      WorkVaritanTileAssets_49: -1644347270
+      WorkVaritanTileAssets_5: -651645292
+      WorkVaritanTileAssets_50: 537220431
+      WorkVaritanTileAssets_51: -604849303
+      WorkVaritanTileAssets_52: -937221211
+      WorkVaritanTileAssets_53: 1105847394
+      WorkVaritanTileAssets_54: 1701472001
+      WorkVaritanTileAssets_55: 658586602
+      WorkVaritanTileAssets_56: -2146151605
+      WorkVaritanTileAssets_57: -581293508
+      WorkVaritanTileAssets_58: -360763601
+      WorkVaritanTileAssets_59: -355758603
+      WorkVaritanTileAssets_6: 1762501216
+      WorkVaritanTileAssets_60: 934165988
+      WorkVaritanTileAssets_61: 2104027712
+      WorkVaritanTileAssets_62: 329358197
+      WorkVaritanTileAssets_63: -1619266463
+      WorkVaritanTileAssets_64: -1768994468
+      WorkVaritanTileAssets_65: 1102593401
+      WorkVaritanTileAssets_66: 1535466917
+      WorkVaritanTileAssets_67: 1333332325
+      WorkVaritanTileAssets_68: -263376727
+      WorkVaritanTileAssets_69: -917056473
+      WorkVaritanTileAssets_7: -346079940
+      WorkVaritanTileAssets_70: -209634676
+      WorkVaritanTileAssets_71: 1083338295
+      WorkVaritanTileAssets_72: 698238112
+      WorkVaritanTileAssets_73: -851732091
+      WorkVaritanTileAssets_74: 604287878
+      WorkVaritanTileAssets_75: -57817345
+      WorkVaritanTileAssets_76: 981337426
+      WorkVaritanTileAssets_77: 326382069
+      WorkVaritanTileAssets_78: -1624234059
+      WorkVaritanTileAssets_79: -2067334072
+      WorkVaritanTileAssets_8: -56778306
+      WorkVaritanTileAssets_80: 918771688
+      WorkVaritanTileAssets_81: -964697509
+      WorkVaritanTileAssets_82: -1339615828
+      WorkVaritanTileAssets_83: 2080423672
+      WorkVaritanTileAssets_84: -528111468
+      WorkVaritanTileAssets_85: -1101920078
+      WorkVaritanTileAssets_86: 283523318
+      WorkVaritanTileAssets_87: -497855147
+      WorkVaritanTileAssets_88: -881400991
+      WorkVaritanTileAssets_89: 125613100
+      WorkVaritanTileAssets_9: -1419792388
+      WorkVaritanTileAssets_90: 1723964834
+      WorkVaritanTileAssets_91: -507091414
+      WorkVaritanTileAssets_92: -155825373
+      WorkVaritanTileAssets_93: -234733060
+      WorkVaritanTileAssets_94: 721200660
+      WorkVaritanTileAssets_95: -863745350
+      WorkVaritanTileAssets_96: -104327637
+      WorkVaritanTileAssets_97: 1515110276
+      WorkVaritanTileAssets_98: -387290438
+      WorkVaritanTileAssets_99: 1199872301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
