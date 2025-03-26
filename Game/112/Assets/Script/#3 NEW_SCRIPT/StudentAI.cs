@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class StudentAI : MonoBehaviour
@@ -36,7 +37,10 @@ public class StudentAI : MonoBehaviour
     private Vector2 currentVelocity;
     private float currentRotation;
     private float pathUpdateTimer;
-
+    private ScoreGet scoreManager;
+    [SerializeField] private SpriteRenderer AIspriteRenderer;
+    [SerializeField] private Sprite idleSprite;
+    [SerializeField] private Animator animator;
     // Публичное свойство для доступа к isFollowingPlayer
     public bool IsFollowingPlayer => isFollowingPlayer;
 
@@ -57,6 +61,11 @@ public class StudentAI : MonoBehaviour
         if (player != null)
         {
             playerTransform = player.transform;
+        }
+        scoreManager = FindObjectOfType<ScoreGet>();
+        if (scoreManager == null)
+        {
+            Debug.LogError("ScoreGet не найден в сцене!");
         }
     }
 
@@ -83,14 +92,22 @@ public class StudentAI : MonoBehaviour
         if (isFollowingPlayer && playerTransform != null)
         {
             FollowPlayer();
+            animator.enabled = true;
         }
         else if (!isWandering)
         {
             MoveToTarget();
+            animator.enabled = true;
+        }
+        else
+        {
+                animator.enabled = false;
+                spriteRenderer.sprite = idleSprite;
         }
 
         // Обновляем поворот
         UpdateRotation();
+
     }
 
     private void UpdateTargetPosition()
@@ -105,13 +122,17 @@ public class StudentAI : MonoBehaviour
         }
     }
 
-    private void CheckPlayerInteraction()
+    public void CheckPlayerInteraction()
     {
         if (playerTransform == null) return;
 
         float distanceToPlayer = Vector2.Distance(transform.position, playerTransform.position);
         if (distanceToPlayer <= interactionRadius)
         {
+            if (!isFollowingPlayer && scoreManager != null)
+            {
+                scoreManager.AddScore(); // Увеличиваем счетчик
+            }
             isFollowingPlayer = !isFollowingPlayer;
             if (isFollowingPlayer)
             {

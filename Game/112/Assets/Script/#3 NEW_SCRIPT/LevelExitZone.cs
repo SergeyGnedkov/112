@@ -45,6 +45,11 @@ public class LevelExitZone : MonoBehaviour
             }
         }
 
+        if (nextSceneName == "MainMenu")
+        {
+            ScoreGet.SaveScore();
+            GameTimer.SaveTimer();
+        }
         // Загружаем новую сцену
         SceneManager.LoadScene(nextSceneName);
     }

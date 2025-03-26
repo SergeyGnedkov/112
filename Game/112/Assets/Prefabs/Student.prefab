@@ -190,6 +190,9 @@ MonoBehaviour:
   teleportFlashDuration: 0.2
   teleportFlashColor: {r: 0, g: 1, b: 1, a: 1}
   showDebugGizmos: 1
+  AIspriteRenderer: {fileID: 8768646190831263995}
+  idleSprite: {fileID: 800976669, guid: b4f4bbaa7ce39df43b0aacfe58702345, type: 3}
+  animator: {fileID: 6887033597120831400}
 --- !u!95 &6887033597120831400
 Animator:
   serializedVersion: 5

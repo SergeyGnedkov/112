@@ -104,6 +104,9 @@ MonoBehaviour:
   walkSpeed: 5
   runSpeed: 8
   rotationSpeed: 10
+  spriteRenderer: {fileID: 5839430721212657149}
+  idleSprite: {fileID: 800976669, guid: b4f4bbaa7ce39df43b0aacfe58702345, type: 3}
+  animator: {fileID: 172663185174774286}
 --- !u!114 &7074653807339564122
 MonoBehaviour:
   m_ObjectHideFlags: 0

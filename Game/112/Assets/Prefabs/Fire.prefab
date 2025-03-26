@@ -69,7 +69,6 @@ MonoBehaviour:
   growthSpeed: 2
   damagePerSecond: 25
   damageRadius: 1.5
-  damageTickRate: 0.2
   playerLayer:
     serializedVersion: 2
     m_Bits: 64
@@ -171,7 +170,7 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
-  m_AnimationFrameRate: 1
+  m_AnimationFrameRate: 15
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Origin: {x: -1, y: 0, z: 0}
   m_Size: {x: 1, y: 1, z: 1}

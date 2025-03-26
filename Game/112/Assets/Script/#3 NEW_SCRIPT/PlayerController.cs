@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -6,6 +7,9 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float walkSpeed = 5f;
     [SerializeField] private float runSpeed = 8f;
     [SerializeField] private float rotationSpeed = 10f;
+    [SerializeField] private SpriteRenderer spriteRenderer;
+    [SerializeField] private Sprite idleSprite;
+    [SerializeField] private Animator animator;
 
     private Rigidbody2D rb;
     private Camera mainCamera;
@@ -27,6 +31,15 @@ public class PlayerController : MonoBehaviour
         movement.y = Input.GetAxisRaw("Vertical");
         movement.Normalize();
 
+        if (movement.sqrMagnitude < .1f)
+        {
+            animator.enabled = false;
+            spriteRenderer.sprite = idleSprite;
+        }
+        else
+        {
+            animator.enabled = true;
+        }
         // Проверяем бег
         isRunning = Input.GetKey(KeyCode.LeftShift);
 
