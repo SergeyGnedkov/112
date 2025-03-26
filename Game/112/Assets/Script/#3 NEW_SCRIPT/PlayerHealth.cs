@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -8,6 +9,11 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] private float currentHealth;
     [SerializeField] private float healthRegenRate = 5f;
     [SerializeField] private float regenDelay = 3f;
+    [SerializeField] private float fireResistance = 1f; // Множитель сопротивления урону от огня (1 = обычный урон)
+
+    [Header("Visual Feedback")]
+    [SerializeField] private float damageFlashDuration = 0.2f;
+    [SerializeField] private Color damageFlashColor = Color.red;
 
     [Header("Events")]
     public UnityEvent onDeath;
@@ -16,6 +22,17 @@ public class PlayerHealth : MonoBehaviour
 
     private float lastDamageTime;
     private bool isDead;
+    private SpriteRenderer spriteRenderer;
+    private Color originalColor;
+
+    private void Awake()
+    {
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        if (spriteRenderer != null)
+        {
+            originalColor = spriteRenderer.color;
+        }
+    }
 
     private void Start()
     {
@@ -39,15 +56,30 @@ public class PlayerHealth : MonoBehaviour
     {
         if (isDead) return;
 
-        currentHealth -= damage;
+        // Применяем сопротивление к урону от огня
+        float actualDamage = damage * fireResistance;
+        currentHealth -= actualDamage;
         lastDamageTime = Time.time;
 
-        onDamageTaken?.Invoke(damage);
+        // Визуальный эффект получения урона
+        StartCoroutine(DamageFlashRoutine());
+
+        onDamageTaken?.Invoke(actualDamage);
         onHealthChanged?.Invoke(currentHealth / maxHealth);
 
         if (currentHealth <= 0)
         {
             Die();
+        }
+    }
+
+    private System.Collections.IEnumerator DamageFlashRoutine()
+    {
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.color = damageFlashColor;
+            yield return new WaitForSeconds(damageFlashDuration);
+            spriteRenderer.color = originalColor;
         }
     }
 
@@ -66,8 +98,17 @@ public class PlayerHealth : MonoBehaviour
         isDead = true;
         onDeath?.Invoke();
 
-        // Здесь дописывать. Можно добавить дополнительную логику смерти
-        // перезагрузку уровня или другие эффекты
+        // Анимация смерти или другие эффекты
+        StartCoroutine(DeathSequence());
+    }
+
+    private System.Collections.IEnumerator DeathSequence()
+    {
+        // Можно добавить анимацию смерти или эффекты
+        yield return new WaitForSeconds(1f);
+        
+        // Перезагружаем текущую сцену
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public float GetHealthPercentage()

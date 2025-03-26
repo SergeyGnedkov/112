@@ -3,58 +3,60 @@ using UnityEngine.SceneManagement;
 
 public class LevelExitZone : MonoBehaviour
 {
-    [Header("Exit Settings")]
-    [SerializeField] private string menuSceneName = "MainMenu";
-    [SerializeField] private float transitionDelay = 1f;
-    [SerializeField] private bool requireAllStudents = true;
+    [Header("Настройки перехода")]
+    [SerializeField] private string nextSceneName = "";  // Имя сцены, куда нужно перейти
+    [SerializeField] private float transitionDelay = 0.5f;  // Задержка перед переходом
     
+    [Header("Визуализация")]
+    [SerializeField] private bool showTriggerZone = true;
+    [SerializeField] private Color gizmoColor = Color.green;
+
     private void OnTriggerEnter2D(Collider2D other)
     {
+        // Проверяем, что в триггер вошел игрок
         if (other.CompareTag("Player"))
         {
-            if (requireAllStudents)
+            Debug.Log("Игрок вошел в зону перехода!");
+            
+            // Если указано имя следующей сцены, переходим на неё
+            if (!string.IsNullOrEmpty(nextSceneName))
             {
-                // Проверяем, все ли студенты следуют за игроком
-                StudentAI[] allStudents = FindObjectsOfType<StudentAI>();
-                bool allStudentsFollowing = true;
-
-                foreach (StudentAI student in allStudents)
-                {
-                    if (!student.IsFollowingPlayer)
-                    {
-                        allStudentsFollowing = false;
-                        break;
-                    }
-                }
-
-                if (allStudentsFollowing)
-                {
-                    LoadMainMenu();
-                }
+                Invoke("LoadNextScene", transitionDelay);
             }
             else
             {
-                LoadMainMenu();
+                Debug.LogError("Не указано имя следующей сцены!");
             }
         }
     }
 
-    private void LoadMainMenu()
+    private void LoadNextScene()
     {
-        // Можно добавить здесь эффекты перехода или анимацию
-        Invoke("LoadMenu", transitionDelay);
+        Debug.Log($"Загружаем сцену: {nextSceneName}");
+
+        // Находим все системы огня на текущей сцене
+        FireSystem[] fireSystems = FindObjectsOfType<FireSystem>();
+        foreach (FireSystem fireSystem in fireSystems)
+        {
+            if (fireSystem != null)
+            {
+                fireSystem.StopAllCoroutines();
+                Destroy(fireSystem.gameObject);
+            }
+        }
+
+        // Загружаем новую сцену
+        SceneManager.LoadScene(nextSceneName);
     }
 
-    private void LoadMenu()
-    {
-        SceneManager.LoadScene(menuSceneName);
-    }
-
+    // Отрисовка зоны триггера в редакторе
     private void OnDrawGizmos()
     {
-        // Визуализация зоны выхода в редакторе
-        Gizmos.color = Color.green;
+        if (!showTriggerZone) return;
+
+        Gizmos.color = gizmoColor;
         BoxCollider2D boxCollider = GetComponent<BoxCollider2D>();
+        
         if (boxCollider != null)
         {
             Gizmos.DrawWireCube(transform.position, boxCollider.size);

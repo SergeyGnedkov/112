@@ -48,8 +48,31 @@ public class FireSystem : MonoBehaviour
         rb2d.constraints = RigidbodyConstraints2D.FreezeAll; // Замораживаем все движения
     }
 
-    private void Start()
+    private void OnEnable()
     {
+        // Подписываемся на событие смены сцены
+        UnityEngine.SceneManagement.SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    private void OnDisable()
+    {
+        // Отписываемся от события
+        UnityEngine.SceneManagement.SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    private void OnSceneLoaded(UnityEngine.SceneManagement.Scene scene, UnityEngine.SceneManagement.LoadSceneMode mode)
+    {
+        // Очищаем список при загрузке новой сцены
+        allFirePoints.Clear();
+        
+        // Переинициализируем огонь
+        InitializeFire();
+    }
+
+    private void InitializeFire()
+    {
+        StopAllCoroutines();
+        
         if (!allFirePoints.Contains(this))
         {
             allFirePoints.Add(this);
@@ -63,6 +86,11 @@ public class FireSystem : MonoBehaviour
 
         StartCoroutine(DamageRoutine());
         StartCoroutine(GrowthRoutine());
+    }
+
+    private void Start()
+    {
+        InitializeFire();
     }
 
     private IEnumerator GrowthRoutine()
